@@ -33,7 +33,7 @@ const Home = () => {
           </Typography>
           <Button
             variant="contained"
-            className="ml-2 md:ml-10 font-serif flex items-center justify-center text-white bg-green-500 hover:bg-green-950 md:w-1/4 h-5"
+            className="ml-2 md:ml-10 font-serif flex items-center justify-center text-white bg-green-900 hover:bg-green-950 md:w-1/4 h-5"
           >
             Get Started Now
           </Button>
